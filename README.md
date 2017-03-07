@@ -1,5 +1,5 @@
-#weightTrend #Hadoop # MapReduce
-Calculating Weight trend over 5 years for 7 different states along genders using Big Data
+#weightTrend #BigData #Hadoop #MapReduce
+Calculating Weight trend over 5 years for 7 different states along genders using Hadoop MapReduce
 
 In this project we were asked to implement compute the weight trend over 5 years for 7 different states along genders using the given data. We needed to develop a map/reduce solution. For each of the following 7 states, we have calculated the average weight of males and females for each year (2009 - 2013) and plotted graphs with year as the X-axis and average weight as the Y-axis.
 
