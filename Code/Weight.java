@@ -1,3 +1,8 @@
+/*
+	Name	: Rajat Dhanuka
+	Course	: DBMS Models & Implementation
+	Year	: 2014
+*/
 import java.io.IOException;
 import java.util.*;
 import org.apache.hadoop.fs.Path;
